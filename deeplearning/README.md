@@ -13,4 +13,4 @@ problems:
 Results:
 1) Accuracy of 94%
 2) Not results
-3) Accuracy of 95%
+3) Accuracy of 99.5%
