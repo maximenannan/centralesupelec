@@ -1,6 +1,6 @@
 #Deep learning
 
-There were 3 assignements to achieve:
+There were 3 assignments to achieve:
 
 **MP1**:
 
