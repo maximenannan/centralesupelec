@@ -1,7 +1,7 @@
-# CentraleSupelec Assignments
+# CentraleSupelec Assignements
 
-This repository contains assignments I needed to accomplish during my last year at CentraleSupelec in Applied Mathematics.
+This repository contains assignements I needed to accomplish during my last year at CentraleSupelec in Applied Mathematics.
 
-It contains assignments in :
+It contains assignements in :
   - Deep learning
   

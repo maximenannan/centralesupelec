@@ -1,4 +1,4 @@
-#Deep learning
+# Deep learning
 
 There were 3 assignments to achieve:
 
@@ -12,5 +12,5 @@ problems:
 
 Results:
 1) Accuracy of 94%
-2) Not results
+2) No results
 3) Accuracy of 99.5%
