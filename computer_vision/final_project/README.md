@@ -10,3 +10,11 @@ Credit to https://github.com/almazan/paiss for the code about deep learning
 
 To run the notebook you need to download the deep learning model here: https://www.dropbox.com/s/c4hjhfl644qen9o/resnet18.pt?dl=0
 and copy it to `data/models/`
+
+
+### Project structure
+
+- `Notebook.ipynb` contains all the experiments
+- `Report.pdf` is summary report about our experiments
+- `data` is the folder that contains all the images and the models 
+- `src` contains code from https://github.com/almazan/paiss to run the deep learning model
