@@ -7,3 +7,6 @@ deduplicate large amount of images.
 
 
 Credit to https://github.com/almazan/paiss for the code about deep learning
+
+To run the notebook you need to download deep learning model here: https://www.dropbox.com/s/c4hjhfl644qen9o/resnet18.pt?dl=0
+and copy it to `data/models/`
